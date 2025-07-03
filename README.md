@@ -21,7 +21,7 @@
 ## 📈 GitHub Stats
 
 ![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalyash616&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalyash616&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalyash616&theme=radical)
 ![GitHub Streak](https://streak-stats.vercel.app/api?user=mittalyash616&theme=radical&hide_border=true)
 
 
