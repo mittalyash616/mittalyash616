@@ -1,60 +1,44 @@
-import random
-def run(ask):
-    if ask=="1":
-        print("start the game now")
-        print("press")
-        print("1.rock")
-        print("2.paper")
-        print("3.scissor")
-        user_input=int(input("please enter your choice: "))
-        system_input=random.randint(1,3)
-        if user_input==1 and system_input==2:
-            print("bad luck, computer wins")
-        elif user_input==2 and system_input==3: 
-            print("bad luck, computer wins")
-        elif user_input==3 and system_input==1: 
-            print("bad luck, computer wins")
-        elif user_input==1 and system_input==3: 
-            print("congratulation, you wins")   
-        elif user_input==2 and system_input==1: 
-            print("congratulation, you wins") 
-        elif user_input==3 and system_input==2: 
-            print("congratulation, you wins")      
-    elif ask=="2":
-        print("start the game now")
-        print("press")
-        print("1.rock")
-        print("2.paper")
-        print("3.scissor")
-        user_input1=int(input("please enter 1st person choice: "))
-        user_input2=int(input("please enter 2nd person choice: "))
-        if user_input1==1 and user_input2==2:
-            print("bad luck, user2 wins")
-        elif user_input1==2 and user_input2==3: 
-            print("bad luck, user2 wins")
-        elif user_input1==3 and user_input2==1: 
-            print("bad luck, user2 wins")
-        elif user_input1==1 and user_input2==3: 
-            print("congratulation, user1 wins")   
-        elif user_input1==2 and user_input2==1: 
-            print("congratulation, user1 wins") 
-        elif user_input1==3 and user_input2==2: 
-            print("congratulation, user1 wins") 
+# 👋 Hi there, I'm Yash Mittal!
 
-#project rock paper scissor 
-print("~"*60)
-print("welcome guys in our python program called rock paper scissor")
-print("~"*60)
-print()
-ask=input("hello, want to play the game (yes or no) ?  ")
-if ask=="no":
-    quit()
-print()
-while ask=="yes":
-    print("press")
-    print("1.single player")
-    print("2.multi player")
-    ask=input("please enter the number: ")
-    run(ask)
-    ask=input("hello, want to play the game more (yes or no) ?  ")
+🎓 B.Tech CSE Student at Bennett University  
+💡 Passionate about Artificial Intelligence & Machine Learning  
+📍 Based in Muzaffarnagar, Uttar Pradesh  
+🚀 On a mission to build impactful AI projects & smart tools
 
+---
+
+## 🔧 Technologies I Use
+
+**Languages**: Python, C++, SQL, Java  
+**ML Tools**: scikit-learn, pandas, numpy, seaborn, matplotlib  
+**Web & UI**: Streamlit, Flask, HTML, CSS, Java Swing  
+**Databases**: MySQL  
+**Others**: Git, GitHub, Jupyter, VS Code, PyCharm
+
+---
+
+## 📈 GitHub Stats
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalyash616&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalyash616&layout=compact&theme=radical)
+
+---
+
+## 🧠 DSA Practice
+
+I regularly practice Data Structures & Algorithms to improve my problem-solving skills.  
+Check out my DSA profile:
+
+- 📘 [Codolio Profile](https://www.codolio.in/u/mittalyash616)
+
+---
+
+## 📬 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-mittal-profile)
+- ✉️ yashmittal.work@gmail.com
+- 🌐 Portfolio: Coming Soon
+
+---
+
+Thanks for visiting! ⭐
