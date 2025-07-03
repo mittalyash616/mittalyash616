@@ -36,7 +36,7 @@ Check out my DSA profile:
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yash-mittal-profile)
-- ✉️ yashmittal.work@gmail.com
+- ✉️ mittalyash616@gmail.com
 - 🌐 Portfolio: Coming Soon
 
 ---
