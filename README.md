@@ -20,9 +20,10 @@
 
 ## 📈 GitHub Stats
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalyash616&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalyash616&layout=compact&theme=radical)  
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalyash616&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalyash616&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mittalyash616&theme=radical&hide_border=true)
+
 
 ---
 
