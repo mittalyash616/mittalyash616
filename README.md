@@ -1,3 +1,4 @@
+
 # 👋 Hi there, I'm Yash Mittal!
 
 🎓 B.Tech CSE Student at Bennett University  
@@ -19,17 +20,24 @@
 
 ## 📈 GitHub Stats
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalyash616&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalyash616&layout=compact&theme=radical)
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalyash616&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalyash616&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mittalyash616&theme=radical&hide_border=true)
+
+---
+
+## 📊 GitHub Contributions Graph
+
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mittalyash616&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🧠 DSA Practice
 
 I regularly practice Data Structures & Algorithms to improve my problem-solving skills.  
-Check out my DSA profile:
+Check out my DSA profiles:
 
-- 📘 [Codolio Profile](https://www.codolio.in/u/mittalyash616)
+- 🌐 [Codolio Profile (codolio.com)](https://codolio.com/profile/yash_mittal)
 
 ---
 
