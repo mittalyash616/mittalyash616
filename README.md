@@ -85,7 +85,7 @@ Over the past **1.5 years**, I have focused on building strong skills in **AI, M
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-mittal-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-mittal-a42645319)  
 - ✉️ Email: mittalyash616@gmail.com  
 - 🌐 Portfolio: *Coming Soon*  
 
