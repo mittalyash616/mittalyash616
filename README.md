@@ -1,54 +1,94 @@
+# 👋 Hi, I'm Yash Mittal!
 
-# 👋 Hi there, I'm Yash Mittal!
-
-🎓 B.Tech CSE Student at Bennett University  
-💡 Passionate about Artificial Intelligence & Machine Learning  
-📍 Based in Muzaffarnagar, Uttar Pradesh  
-🚀 On a mission to build impactful AI projects & smart tools
-
----
-
-## 🔧 Technologies I Use
-
-**Languages**: Python, C++, SQL, Java  
-**ML Tools**: scikit-learn, pandas, numpy, seaborn, matplotlib  
-**Web & UI**: Streamlit, Flask, HTML, CSS, Java Swing  
-**Databases**: MySQL  
-**Others**: Git, GitHub, Jupyter, VS Code, PyCharm
+🎓 **B.Tech CSE Student** at Bennett University  
+💡 Passionate about **Artificial Intelligence & Machine Learning**  
+📍 Based in **Muzaffarnagar, Uttar Pradesh**  
+🚀 On a mission to **build impactful AI projects & smart tools**
 
 ---
 
-## 📈 GitHub Stats
+## 🔧 Technologies & Tools
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalyash616&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalyash616&layout=donut&theme=radical)
+**Languages:** Python | C++ | SQL | Java  
+**Machine Learning / Data Science:** scikit-learn | pandas | numpy | matplotlib | seaborn  
+**Web & UI Development:** Streamlit | Flask | HTML | CSS | Java Swing  
+**Databases:** MySQL  
+**Other Tools:** Git | GitHub | Jupyter Notebook | VS Code | PyCharm
+
+---
+
+## 📊 GitHub Stats
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalyash616&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalyash616&layout=donut&theme=radical)  
 ![GitHub Streak](https://streak-stats.vercel.app/api?user=mittalyash616&theme=radical&hide_border=true)
 
+---
 
+## 📈 GitHub Activity Graph
+
+[![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mittalyash616&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📊 GitHub Contributions Graph
+## 🧠 Data Structures & Algorithms
 
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mittalyash616&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+I actively practice **DSA** to sharpen my problem-solving skills.  
+Check out my profiles:  
+
+- 🌐 [Codolio](https://codolio.com/profile/yash_mittal) – Track my DSA progress
 
 ---
 
-## 🧠 DSA Practice
+## 💡 Projects & Highlights
 
-I regularly practice Data Structures & Algorithms to improve my problem-solving skills.  
-Check out my DSA profiles:
+- 🔹 **Library Management System (Python + Flask + MySQL)** – Full-featured LMS project  
+- 🔹 **QR Code Generator** – Multi-purpose QR code generator for WhatsApp, YouTube, Payments, and more  
+- 🔹 **Agentic AI** – Question-answering AI using LangChain, Scrapy, and OpenAI API  
+- 🔹 **Smart Task Planner Agent** – Python agent for goal planning & timeline creation  
 
-- 🌐 [Codolio Profile (codolio.com)](https://codolio.com/profile/yash_mittal)
+*(More projects coming soon… 🚀)*
+
+---
+
+## 🧠 My Learning & Experience Journey (Last 1.5 Years)
+
+Over the past **1.5 years**, I have focused on building strong skills in **AI, Machine Learning, LLMOps, DSA, and programming**:
+
+### 🔹 LLMOps & AI Projects
+- Built **Agentic AI** for question-answering using **LangChain, Scrapy, and OpenAI API**.  
+- Developed **Smart Task Planner Agent** in Python for goal management & task scheduling.  
+- Hands-on experience with **AI model integration, prompt engineering, and workflow automation**.
+
+### 🔹 Machine Learning & Algorithms
+- Implemented **supervised and unsupervised ML algorithms**: Linear Regression, Logistic Regression, Decision Trees, Random Forest, KNN, SVM, K-Means, PCA.  
+- Applied **data preprocessing, feature engineering, normalization, and model evaluation techniques**.  
+- Explored **deep learning basics** and **NLP pipelines** using Python.
+
+### 🔹 Data Structures & Algorithms (DSA)
+- Practiced consistently for **problem-solving and competitive programming**.  
+- Focused on **arrays, linked lists, trees, graphs, dynamic programming, and algorithms like sorting/searching**.  
+- Platforms: **LeetCode, Codolio** (50+ days streak and active practice).
+
+### 🔹 Programming Skills
+- **Python:** AI/ML projects, scripting, automation, web development (Flask, Streamlit).  
+- **C++:** Competitive programming, object-oriented programming, and algorithms.  
+- **SQL & Databases:** MySQL for project data management.  
+- **Other Tools:** Git, GitHub, Jupyter Notebook, VS Code, PyCharm.
+
+### 🚀 Key Takeaways
+- Gained **hands-on experience** in building AI & ML projects from scratch.  
+- Strong foundation in **DSA, algorithms, and coding practices**.  
+- Practical exposure to **LLMOps pipelines, model integration, and automation workflows**.
 
 ---
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-mittal-profile)
-- ✉️ mittalyash616@gmail.com
-- 🌐 Portfolio: Coming Soon
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-mittal-profile)  
+- ✉️ Email: mittalyash616@gmail.com  
+- 🌐 Portfolio: *Coming Soon*  
 
 ---
 
-Thanks for visiting! ⭐
+Thanks for stopping by! ⭐
