@@ -22,7 +22,6 @@
 ![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalyash616&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalyash616&layout=donut&theme=radical)
 ![GitHub Streak](https://streak-stats.vercel.app/api?user=mittalyash616&theme=radical&hide_border=true)
-![Yash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mittalyash616&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mittalyash616&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 ![Profile Views](https://komarev.com/ghpvc/?username=mittalyash616&label=Profile%20views&color=ff69b4&style=flat)
 
