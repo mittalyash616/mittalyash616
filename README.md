@@ -29,7 +29,8 @@
 
 ## 📈 GitHub Activity Graph
 
-[![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mittalyash616&theme=react-dark&v=1)
+[![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mittalyash616&theme=react-dark&v=2)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
